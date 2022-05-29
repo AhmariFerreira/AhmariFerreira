@@ -40,8 +40,6 @@
     <div class="project-tile">
       <h3 class="project-name">Practice</h3>
       <a href="https://codepen.io/ahmariferreira/pen/BaYYZbj" target="_blank" title=""> <img src="https://codepen.io/ahmariferreira/pen/BaYYZbj" class="img--project"></a>
-      <p class="description--project">link to my work! <a href="" target="_blank" title="Lights Out">here</a>.</p>
-      <p class="description--project">Check out my other <a href="https://codepen.io/collection/nvgMpY/" target="_blank" title="Similar projects">games</a>.</p>
     </div>
     </div>
   </div>
